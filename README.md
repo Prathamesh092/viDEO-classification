@@ -10,9 +10,9 @@ pipeline_tag: video-classification
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/in-search-of-a-robust-facial-expressions/facial-expression-recognition-on-affectnet)](https://paperswithcode.com/paper/in-search-of-a-robust-facial-expressions)
 
 <p align="center">
-    <img width="32%" src="https://github.com/ElenaRyumina/EMO-AffectNetModel/blob/main/gif/test_04_AffWild2.gif?raw=true" alt="test_4_AffWild2"/>
-    <img  width="32%" src="https://github.com/ElenaRyumina/EMO-AffectNetModel/blob/main/gif/test_02_AffWild2.gif?raw=true" alt="test_2_AffWild2"/>
-    <img  width="32%" src="https://github.com/ElenaRyumina/EMO-AffectNetModel/blob/main/gif/test_03_AffWild2.gif?raw=true" alt="test_3_AffWild2"/>
+    <img width="20%" src="https://github.com/ElenaRyumina/EMO-AffectNetModel/blob/main/gif/test_04_AffWild2.gif?raw=true" alt="test_4_AffWild2"/>
+    <img  width="20%" src="https://github.com/ElenaRyumina/EMO-AffectNetModel/blob/main/gif/test_02_AffWild2.gif?raw=true" alt="test_2_AffWild2"/>
+    <img  width="20%" src="https://github.com/ElenaRyumina/EMO-AffectNetModel/blob/main/gif/test_03_AffWild2.gif?raw=true" alt="test_3_AffWild2"/>
 </p>
 
 This is Emo-AffectNet model for facial emotion recognition by videos / images. 
