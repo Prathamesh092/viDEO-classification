@@ -5,7 +5,8 @@ metrics:
 pipeline_tag: video-classification
 tags:
 - FER
-- PyTorch
+- Image Classification
+library_name: PyTorch
 ---
 
 # Static and dynamic facial emotion recognition using the Emo-AffectNet model
