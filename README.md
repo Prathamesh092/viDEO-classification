@@ -3,6 +3,8 @@ license: mit
 metrics:
 - recall
 pipeline_tag: video-classification
+tags:
+- FER
 ---
 
 # Static and dynamic facial emotion recognition using the Emo-AffectNet model
