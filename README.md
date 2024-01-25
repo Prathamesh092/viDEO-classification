@@ -12,6 +12,7 @@ library_name: PyTorch
 # Static and dynamic facial emotion recognition using the Emo-AffectNet model
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/in-search-of-a-robust-facial-expressions/facial-expression-recognition-on-affectnet)](https://paperswithcode.com/paper/in-search-of-a-robust-facial-expressions)
+[![App](https://img.shields.io/badge/🤗-DEMO--Facial%20Expressions%20Recognition-FFD21F.svg)](https://huggingface.co/spaces/ElenaRyumina/Facial_Expression_Recognition)
 
 This is Emo-AffectNet model for facial emotion recognition by videos / images. 
 
