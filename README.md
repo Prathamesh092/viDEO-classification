@@ -16,7 +16,7 @@ library_name: PyTorch
 
 This is Emo-AffectNet model for facial emotion recognition by videos / images. 
 
-To see the emotion detected by webcam, you should run ``rub_webcam``. Webcam result:
+To see the emotion detected by webcam, you should run ``run_webcam``. Webcam result:
 
 <p align="center">
     <img width="50%" src="https://github.com/ElenaRyumina/EMO-AffectNetModel/blob/main/gif/result_2.gif?raw=true" alt="result"/>
